@@ -1,0 +1,4 @@
+ali,12,1000,320,CS;CE;Mech
+musa,15,970,140,CS;CE;Mech
+peter,19,960,360,CE;CS;Civil
+harry,19,1051,185,CS;CE

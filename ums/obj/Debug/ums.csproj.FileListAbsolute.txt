@@ -1,0 +1,14 @@
+E:\OOP\UMS\ums\ums\bin\Debug\ums.exe.config
+E:\OOP\UMS\ums\ums\bin\Debug\ums.exe
+E:\OOP\UMS\ums\ums\bin\Debug\ums.pdb
+E:\OOP\UMS\ums\ums\obj\Debug\ums.csprojAssemblyReference.cache
+E:\OOP\UMS\ums\ums\obj\Debug\ums.csproj.CoreCompileInputs.cache
+E:\OOP\UMS\ums\ums\obj\Debug\ums.exe
+E:\OOP\UMS\ums\ums\obj\Debug\ums.pdb
+C:\Users\Zohaib Ali\Downloads\ums\ums\obj\Debug\ums.csprojAssemblyReference.cache
+C:\Users\Zohaib Ali\Downloads\ums\ums\obj\Debug\ums.csproj.CoreCompileInputs.cache
+C:\Users\Zohaib Ali\Downloads\ums\ums\obj\Debug\ums.exe
+C:\Users\Zohaib Ali\Downloads\ums\ums\obj\Debug\ums.pdb
+C:\Users\Zohaib Ali\Downloads\ums\ums\bin\Debug\ums.exe.config
+C:\Users\Zohaib Ali\Downloads\ums\ums\bin\Debug\ums.exe
+C:\Users\Zohaib Ali\Downloads\ums\ums\bin\Debug\ums.pdb
